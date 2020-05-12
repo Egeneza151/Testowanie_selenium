@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\bin\Debug\nunit.engine.dll
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\bin\Debug\nunit.engine.api.dll
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\bin\Debug\Projekt_testowanie_oprogramowania.exe.config
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\bin\Debug\Projekt_testowanie_oprogramowania.exe
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\bin\Debug\Projekt_testowanie_oprogramowania.pdb
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\bin\Debug\nunit.framework.dll
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\bin\Debug\WebDriver.dll
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\bin\Debug\nunit.framework.pdb
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\bin\Debug\nunit.framework.xml
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\bin\Debug\WebDriver.xml
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\obj\Debug\Projekt_testowanie_oprogramowania.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\obj\Debug\Projekt_testowanie_oprogramowania.csproj.CopyComplete
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\obj\Debug\Projekt_testowanie_oprogramowania.exe
+C:\Users\HP\source\repos\Projekt_testowanie_oprogramowania\Projekt_testowanie_oprogramowania\obj\Debug\Projekt_testowanie_oprogramowania.pdb
