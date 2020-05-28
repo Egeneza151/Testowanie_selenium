@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +9,8 @@ using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
-
+*/
+/*
 namespace Projekt_testowanie_oprogramowania
 {
     class Program
@@ -194,21 +196,17 @@ namespace Projekt_testowanie_oprogramowania
             //Logout
             browser.FindElement(By.XPath("/html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr[1]/td[2]/table/tbody/tr[7]/td/table/tbody/tr/td[3]/a")).Click();
 
-
+            
             //Sign in
             //browser.FindElement(By.XPath("/html/body/div/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[1]/a")).Click();
-
+            */
             //Logowanie
             /*
             browser.FindElement(By.Name("userName")).SendKeys("12345");
             browser.FindElement(By.Name("password")).SendKeys("12345!@#");
             browser.FindElement(By.Name("login")).Click();
             */
-
-
-
-
-
+            /*
             browser.Close();
 
         }
@@ -220,4 +218,4 @@ namespace Projekt_testowanie_oprogramowania
             }
         }
     }
-}
+}*/
